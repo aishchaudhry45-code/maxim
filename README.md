@@ -15,7 +15,7 @@
 <body>
   <div class="wrap">
     <div>
-      <blockquote>Bhaio Kon kon Agent ki gaand pe goli marna chahta h<br>sab is link ko snare kre.</blockquote>
+      <blockquote>Bhaio Kon kon Agent ki gaand pe goli marna chahta h<br>sab is link ko share kre.</blockquote>
       <cite>— Aish Nehwal</cite>
     </div>
   </div>
