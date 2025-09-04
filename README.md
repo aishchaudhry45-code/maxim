@@ -15,8 +15,8 @@
 <body>
   <div class="wrap">
     <div>
-      <blockquote>Bhaio Kon kon entity ki pegging karna chahta h<br>sab is link ko share kre.</blockquote>
-      <cite>— Aish Nehwal</cite>
+      <blockquote>क्या देखे ह <br>कुछ काम हिल्ला करले ने .</blockquote>
+      <cite>— जाट राम </cite>
     </div>
   </div>
 </body>
