@@ -15,7 +15,7 @@
 <body>
   <div class="wrap">
     <div>
-      <blockquote>क्या देखे ह <br>कुछ काम हिल्ला करले ने .</blockquote>
+      <blockquote>क्या देखे ह <br>कुछ काम हिल्ला करले ने </blockquote>
       <cite>— जाट राम </cite>
     </div>
   </div>
