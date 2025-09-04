@@ -15,8 +15,8 @@
 <body>
   <div class="wrap">
     <div>
-      <blockquote>Whatever happens we have got<br>The Maxim Gun, and they have not.</blockquote>
-      <cite>— Hilaire Belloc</cite>
+      <blockquote>Bhaio Kon kon Agent ki gaand pe goli marna chahta h<br>sab is link ko snare kre.</blockquote>
+      <cite>— Aish Nehwal</cite>
     </div>
   </div>
 </body>
